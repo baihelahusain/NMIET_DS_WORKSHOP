@@ -1,0 +1,5 @@
+pymupdf
+google-generativeai==0.8.4
+pdf2image
+pillow
+streamlit
