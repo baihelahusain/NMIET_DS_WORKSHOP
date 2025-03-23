@@ -9,15 +9,16 @@ These  Workshop was organised by my college PCET NMIET it was of 3 days in which
 
 **[Day1](https://github.com/baihelahusain/NMIET_DS_WORKSHOP/tree/main/Workshop/Day1)**
 
-**Day2:**
+**[Day2](https://github.com/baihelahusain/NMIET_DS_WORKSHOP/tree/main/Workshop/Day2)**
 
-**Day3:**
+**[Day3](https://github.com/baihelahusain/NMIET_DS_WORKSHOP/tree/main/Workshop/Day3)**
 
 ---
 
 ## **My projects:**
 
-**1.ATS score checker and resume analyzer:** https://resume-ats-analyzer-by-neural-net-ninjas.streamlit.app/
+**[1.ATS score checker and resume analyzer:](https://github.com/baihelahusain/NMIET_DS_WORKSHOP/tree/main/Myproject/ATS_SCORE_ANALYZER)**(Streamlit & Gen AI based project)
+https://resume-ats-analyzer-by-neural-net-ninjas.streamlit.app/
 
 **2.E-Commerce Furniture price prediction:**
 
@@ -27,7 +28,7 @@ These  Workshop was organised by my college PCET NMIET it was of 3 days in which
 
 **5.Titanic**
 
-**6.CCTV VANDALISM DETECTION SYSTEM(Currently working)**
+**6.CCTV VANDALISM DETECTION SYSTEM(Currently working on it....)**
 
 ---
 
@@ -52,3 +53,6 @@ These  Workshop was organised by my college PCET NMIET it was of 3 days in which
 
 ### Web App Development  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+---
+##**[Resources](https://drive.google.com/drive/folders/1pAeGvReckPY2LGdUxx74Wssasbpz4uAJ?usp=drive_link)**
+
