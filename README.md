@@ -53,6 +53,8 @@ https://resume-ats-analyzer-by-neural-net-ninjas.streamlit.app/
 
 ### Web App Development  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
 ---
-#**[Resources](https://drive.google.com/drive/folders/1pAeGvReckPY2LGdUxx74Wssasbpz4uAJ?usp=drive_link)**
+
+## **[Resources](https://drive.google.com/drive/folders/1pAeGvReckPY2LGdUxx74Wssasbpz4uAJ?usp=drive_link)**
 
