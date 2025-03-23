@@ -17,7 +17,7 @@ These  Workshop was organised by my college PCET NMIET it was of 3 days in which
 
 ## **My projects:**
 
-**[1.ATS score checker and resume analyzer:](https://github.com/baihelahusain/NMIET_DS_WORKSHOP/tree/main/Myproject/ATS_SCORE_ANALYZER)**(Streamlit & Gen AI based project)
+**[1.ATS score checker and resume analyzer:](https://github.com/baihelahusain/NMIET_DS_WORKSHOP/tree/main/MyProjects/ATS_SCORE_ANALYZER)**(Streamlit & Gen AI based project)
 
 https://resume-ats-analyzer-by-neural-net-ninjas.streamlit.app/
 
