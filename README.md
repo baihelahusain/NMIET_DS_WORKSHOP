@@ -27,7 +27,7 @@ These  Workshop was organised by my college PCET NMIET it was of 3 days in which
 
 **5.Titanic**
 
-**6.CCTV VANDALISM DETECTION SYSTEM(Ongoing)**
+**6.CCTV VANDALISM DETECTION SYSTEM(Currently working)**
 
 ---
 
