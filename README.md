@@ -35,26 +35,24 @@ https://resume-ats-analyzer-by-neural-net-ninjas.streamlit.app/
 
 ---
 
-### Programming Language  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## **Tech Stack:**
 
 ---
 
-### Data Science & Analysis  
+**Programming Language**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+**Data Science & Analysis** 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
 
----
-
-### Machine Learning & Deep Learning  
+**Machine Learning & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-1A1A1A?style=for-the-badge&logo=deep-learning&logoColor=white)  
 
----
-
-### Web App Development  
+**Web App Development**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ---
